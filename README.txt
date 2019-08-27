@@ -1,1 +1,1 @@
- Hello fucking Git and github
+ Hello Git and github
